@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    The Tech Tutor
                 </div>
 
                 <div class="links">
